@@ -1,10 +1,10 @@
 import React, {Component} from 'react';
-import WeeklyRealse from './containers/WeeklyRealse.js'
+import WeeklyRelease from './containers/WeeklyRelease.js'
 
 class App extends Component{
-  render {
+  render() {
     return (
-      <WeeklyRealse />
+      <WeeklyRelease />
     )
   }
 }
